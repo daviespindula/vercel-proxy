@@ -1,0 +1,9 @@
+{
+  "name": "xgate-proxy",
+  "version": "1.0.0",
+  "description": "Proxy para rotear requisições XGate através do Fixie",
+  "main": "api/xgate-proxy.js",
+  "dependencies": {
+    "https-proxy-agent": "^7.0.2"
+  }
+}
